@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854995712517",
+    "project_id": "nimbus-1021",
+    "storage_bucket": "nimbus-1021.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854995712517:android:a0b4d20a51b51ed91bba6c",
+        "android_client_info": {
+          "package_name": "com.nimbus.spatial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKWYoexvcQyGw1-WJaljZVCKL-99rXmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
